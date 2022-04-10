@@ -4,4 +4,4 @@
      <li>wszytsko</li>
      <li>nic</li>
 </ul>
-![stunning img of grass](images/img.jpg "kurwa działaj")
+![stunning img of grass](images/img.jpg)
