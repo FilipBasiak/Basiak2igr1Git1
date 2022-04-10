@@ -4,4 +4,4 @@
      <li>wszytsko</li>
      <li>nic</li>
 </ul>
-![img of grass](img.jpg)
+![img of grass](/img.jpg)
